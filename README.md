@@ -7,3 +7,5 @@ no la cambio por ninguna
 El arbol es verde 
 Mientras el tronco es cafe 
 
+el sol es grande,
+amarrillo y brillante
